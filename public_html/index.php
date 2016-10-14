@@ -11,6 +11,91 @@
 		<header>
 			<h1>Albuquerque Raised, New Orleans Educated.</h1>
 		</header>
+<!-- Start Image Gallery-->
+		<html>
+			<head>
+				<style>
+					div.img {
+						margin: 5px;
+						border: 1px solid #ccc;
+						float: left;
+						width: 180px;
+					}
+
+					div.img:hover {
+						border: 1px solid #777;
+					}
+
+					div.img img {
+						width: 100%;
+						height: auto;
+					}
+
+					div.desc {
+						padding: 15px;
+						text-align: center;
+					}
+				</style>
+			</head>
+			<body>
+
+				<div class="img">
+					<img src="images/IMG_2459.JPG" alt="me-and-wellington" width="300" height="200">
+					</a>
+					<div class="desc">Me and my pops!</div>
+				</div>
+
+				<div class="img">
+
+					<img src="images/IMG_2709.JPG" alt="RugbyPic" width="300" height="200">
+					</a>
+					<div class="desc">I love playing rugby, openside flanker.</div>
+				</div>
+
+				<div class="img">
+					<img src="images/IMG_2800.JPG" alt="TheBoot" width="300" height="200">
+					</a>
+					<div class="desc">A going away gift from my team...</div>
+				</div>
+
+				<div class="img">
+					<img src="images/IMG_2839.JPG" alt="Marlaaron" width="300" height="200">
+					</a>
+					<div class="desc">Some friends and I at a Mardi Gras parade</div>
+				</div>
+
+
+			</body>
+		</html>
+<!-- this next block is purely for spacing. Need to find a more efficient way to do this. -->
+		<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</pre>
+
 
 		<!-- this is the main page content-->
 		<main>
@@ -36,9 +121,9 @@
 				<h2>'01-'05</h2>
 				<p> Memory hazy, updates include:</p>
 				<ul>
-					<li>Learn more English</li>
-					<li>Get my first black eye</li>
-					<li>Give up goals to be a professional Yo-Yo'er</li>
+					<li>Start playing soccer</li>
+					<li>Win both English and Spanish spelling bees (career best)</li>
+					<li>Realize that my parents are not going to get me a dog</li>
 				</ul>
 					<p>Hey, maybe you could pop a tent outside with your cousin Maeby… it'd be a good chance to rub off on her. There are dozens of us! DOZENS! I will pack your sweet pink mouth with so much ice cream you'll be the envy of every Jerry and Jane on the block! I made a huge tiny mistake. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Hahahaha. So you take your mom to work every day? Bummer. Moms are such a pain in the ass, huh? It's, like, die already!</p>
 				<img src="img/chicken%20dance.gif" alt="chicken dance gif"
