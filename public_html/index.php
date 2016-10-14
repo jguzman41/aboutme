@@ -3,7 +3,8 @@
 	<head>
 		<meta charset="UTF-8">
 
-
+<!--add CSS File -->
+		<link href="CSS%20stylesheet.css" rel="stylesheet" type="text/css">
 		<title> "Goose"</title>
 	</head>
 	<body>
@@ -12,7 +13,6 @@
 			<h1>Albuquerque Raised, New Orleans Educated.</h1>
 		</header>
 <!-- Start Image Gallery-->
-		<html>
 			<head>
 				<style>
 					div.img {
@@ -37,36 +37,36 @@
 					}
 				</style>
 			</head>
-			<body>
+<!--			<body>-->
 
 				<div class="img">
-					<img src="images/IMG_2459.JPG" alt="me-and-wellington" width="300" height="200">
+					<img src="images/IMG_2299.JPG" alt="me-and-Sosa" width="1080" height="720">
 					</a>
-					<div class="desc">Me and my pops!</div>
+					<div class="desc">Me and my dog, Sosa!</div>
 				</div>
 
 				<div class="img">
 
-					<img src="images/IMG_2709.JPG" alt="RugbyPic" width="300" height="200">
+					<img src="images/IMG_2198.JPG" alt="RugbyPic" width="1080" height="720">
 					</a>
 					<div class="desc">I love playing rugby, openside flanker.</div>
 				</div>
 
 				<div class="img">
-					<img src="images/IMG_2800.JPG" alt="TheBoot" width="300" height="200">
+					<img src="images/IMG_2800.JPG" alt="TheBoot" width="1080" height="720">
 					</a>
 					<div class="desc">A going away gift from my team...</div>
 				</div>
 
 				<div class="img">
-					<img src="images/IMG_2839.JPG" alt="Marlaaron" width="300" height="200">
+					<img src="images/IMG_2839.JPG" alt="Marlaaron" width="1080" height="720">
 					</a>
 					<div class="desc">Some friends and I at a Mardi Gras parade</div>
 				</div>
 
 
-			</body>
-		</html>
+<!--			</body>-->
+
 <!-- this next block is purely for spacing. Need to find a more efficient way to do this. -->
 		<pre>
 
@@ -126,7 +126,7 @@
 					<li>Realize that my parents are not going to get me a dog</li>
 				</ul>
 					<p>Hey, maybe you could pop a tent outside with your cousin Maeby… it'd be a good chance to rub off on her. There are dozens of us! DOZENS! I will pack your sweet pink mouth with so much ice cream you'll be the envy of every Jerry and Jane on the block! I made a huge tiny mistake. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Hahahaha. So you take your mom to work every day? Bummer. Moms are such a pain in the ass, huh? It's, like, die already!</p>
-				<img src="img/chicken%20dance.gif" alt="chicken dance gif"
+				<img src="img/chicken%20dance.gif" alt="chicken dance gif">
 			</section>
 
 			<!-- begin section 2-->
@@ -161,9 +161,10 @@
 					</tr>
 				</table>
 			</section>
-			<section> <h2> Social Media </h2> </section>
-			<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-580009aff67502f0"></script>
+			<section> <h2> Social Media </h2> 			<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-580009aff67502f0"></script>
 		</main>
 		<!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_follow_toolbox"></div>
+		</section>
+
 	</body>
 </html>

@@ -5,4 +5,28 @@ body {
 	background: -webkit-linear-gradient(top, #ffffff 0%, #621B62 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom, #ffffff 0%, #621B62 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#621B62', GradientType=0); /* IE6-9 */
+
+	/* Body alignment*/
+
+	width: 60%;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 50px;
 }
+header {
+	width: 50%;
+	text-align: center;
+	text-decoration: underline;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+section { /*for sections*/
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+/*div.addthis_inline_follow_toolbox {*/
+	/*width: 50%;*/
+	/*text-align: center;*/
+/*}*/
