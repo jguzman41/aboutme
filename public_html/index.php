@@ -18,7 +18,29 @@
 			<!-- begin section 1-->
 
 			<section>
-				<p>Hey, maybe you could pop a tent outside with your cousin Maeby… it'd be a good chance to rub off on her. There are dozens of us! DOZENS! I will pack your sweet pink mouth with so much ice cream you'll be the envy of every Jerry and Jane on the block! I made a huge tiny mistake. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Hahahaha. So you take your mom to work every day? Bummer. Moms are such a pain in the ass, huh? It's, like, die already!</p>
+				<h1>A Timeline</h1>
+					<h2>'93-'96</h2>
+					<p> Fairly uneventful. Highlights include:</p>
+						<ul>
+							<li>Move from the Dominican Republic to the United States.</li>
+							<li>My brother is born</li>
+							<li>I get pretty good at eating solid food</li>
+						</ul>
+				<h2>'97-'00</h2>
+				<p> Memory hazy, updates include:</p>
+				<ul>
+					<li>Learn more English</li>
+					<li>Get my first black eye</li>
+					<li>Give up goals to be a professional Yo-Yo'er</li>
+				</ul>
+				<h2>'01-'05</h2>
+				<p> Memory hazy, updates include:</p>
+				<ul>
+					<li>Learn more English</li>
+					<li>Get my first black eye</li>
+					<li>Give up goals to be a professional Yo-Yo'er</li>
+				</ul>
+					<p>Hey, maybe you could pop a tent outside with your cousin Maeby… it'd be a good chance to rub off on her. There are dozens of us! DOZENS! I will pack your sweet pink mouth with so much ice cream you'll be the envy of every Jerry and Jane on the block! I made a huge tiny mistake. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Hahahaha. So you take your mom to work every day? Bummer. Moms are such a pain in the ass, huh? It's, like, die already!</p>
 				<img src="img/chicken%20dance.gif" alt="chicken dance gif"
 			</section>
 
