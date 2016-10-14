@@ -10,7 +10,8 @@
 	<body>
 		<!-- this is the header-->
 		<header>
-			<h1>Albuquerque Raised, New Orleans Educated.</h1>
+			<h1>Albuquerque Raised</h1>
+			<h1> New Orleans Educated.</h1>
 		</header>
 <!-- Start Image Gallery-->
 			<head>
@@ -40,26 +41,27 @@
 <!--			<body>-->
 
 				<div class="img">
-					<img src="images/IMG_2299.JPG" alt="me-and-Sosa" width="1080" height="720">
-					</a>
+					<img src="images/sosa-rotations/sosa-image-correct%20copy.JPG" alt="me-and-Sosa" width="1080" height="720">
 					<div class="desc">Me and my dog, Sosa!</div>
+					</a>
 				</div>
 
-				<div class="img">
 
+				<div class="img">
 					<img src="images/IMG_2198.JPG" alt="RugbyPic" width="1080" height="720">
-					</a>
 					<div class="desc">I love playing rugby, openside flanker.</div>
-				</div>
-
-				<div class="img">
-					<img src="images/IMG_2800.JPG" alt="TheBoot" width="1080" height="720">
 					</a>
-					<div class="desc">A going away gift from my team...</div>
+				</div>
+
+
+				<div class="img">
+					<img src="images/IMG_2459.JPG" alt="TheBoot" width="1080" height="720">
+					</a>
+					<div class="desc">My pops and I</div>
 				</div>
 
 				<div class="img">
-					<img src="images/IMG_2839.JPG" alt="Marlaaron" width="1080" height="720">
+					<img src="images/IMG_2839%202.JPG" alt="Marlaaron" width="1080" height="720">
 					</a>
 					<div class="desc">Some friends and I at a Mardi Gras parade</div>
 				</div>

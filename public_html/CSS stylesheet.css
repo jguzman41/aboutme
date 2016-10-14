@@ -26,6 +26,10 @@ section { /*for sections*/
 	margin: 0 auto;
 	padding-top: 50px;
 }
+
+/*#rotate {*/
+	/*-webkit-transform: rotate(90deg);*/
+/*}*/
 /*div.addthis_inline_follow_toolbox {*/
 	/*width: 50%;*/
 	/*text-align: center;*/
