@@ -3,7 +3,8 @@
 	<head>
 		<meta charset="UTF-8">
 
-<!--add CSS File -->
+
+<!-- add css file -->
 		<link href="CSS%20stylesheet.css" rel="stylesheet" type="text/css">
 		<title> "Goose"</title>
 	</head>
@@ -18,13 +19,13 @@
 				<style>
 					div.img {
 						margin: 5px;
-						border: 1px solid #ccc;
+						border: 3px solid #ffffff;
 						float: left;
 						width: 180px;
 					}
 
 					div.img:hover {
-						border: 1px solid #777;
+						border: 5px solid #777;
 					}
 
 					div.img img {
@@ -42,7 +43,7 @@
 
 				<div class="img">
 					<img src="images/sosa-rotations/sosa-image-correct%20copy.JPG" alt="me-and-Sosa" width="1080" height="720">
-					<div class="desc">Me and my dog, Sosa!</div>
+					<div class="desc">Me and my dog, Sosa! What a doge.</div>
 					</a>
 				</div>
 
@@ -55,9 +56,9 @@
 
 
 				<div class="img">
-					<img src="images/IMG_2459.JPG" alt="TheBoot" width="1080" height="720">
+					<img src="images/IMG_2800.JPG" alt="TheBoot" width="1080" height="720">
 					</a>
-					<div class="desc">My pops and I</div>
+					<div class="desc">A parting gift from my team...</div>
 				</div>
 
 				<div class="img">
@@ -71,13 +72,6 @@
 
 <!-- this next block is purely for spacing. Need to find a more efficient way to do this. -->
 		<pre>
-
-
-
-
-
-
-
 
 
 
@@ -120,15 +114,29 @@
 					<li>Get my first black eye</li>
 					<li>Give up goals to be a professional Yo-Yo'er</li>
 				</ul>
-				<h2>'01-'05</h2>
+				<h2>'01-'06</h2>
 				<p> Memory hazy, updates include:</p>
 				<ul>
-					<li>Start playing soccer</li>
+					<li>Make a Myspace page</li>
 					<li>Win both English and Spanish spelling bees (career best)</li>
 					<li>Realize that my parents are not going to get me a dog</li>
 				</ul>
+				<h2>'07-'11</h2>
+				<p> #BulldogStrong</p>
+				<ul>
+					<li>Peak in highschool</li>
+					<li>Break my foot playing soccer in the house</li>
+					<li>Join a punk band, I was the weak link.</li>
+				</ul>
+				<h2>'11-present</h2>
+				<p> Memory almost hazier than before</p>
+				<ul>
+					<li>Think about what might have happened to my Myspace page</li>
+					<li>Start playing rugby, leaving my mom in a perpetual state of worry</li>
+					<li>Move to New Orleans, leaving my mom in a perpetual state of worry</li>
+				</ul>
 					<p>Hey, maybe you could pop a tent outside with your cousin Maeby… it'd be a good chance to rub off on her. There are dozens of us! DOZENS! I will pack your sweet pink mouth with so much ice cream you'll be the envy of every Jerry and Jane on the block! I made a huge tiny mistake. One of the guys told me to take my head out of my BOTTOM and get back to work…my BOTTOM! Hahahaha. So you take your mom to work every day? Bummer. Moms are such a pain in the ass, huh? It's, like, die already!</p>
-				<img src="img/chicken%20dance.gif" alt="chicken dance gif">
+				<img src="images/ericandre-coffee.gif" alt="eric-andre gif">
 			</section>
 
 			<!-- begin section 2-->
